@@ -13,7 +13,7 @@ const laukumi       = ['L01','L02','L03','L04','L05','L06','L07','L08','L09','L1
 const laukumiSaturs = ['😀','🤡' ,'😺' ,'🎃','😺' ,'🤖','😀','🎃' ,'🤖' ,'👽','👽' ,'🤡'];
 //vienādie atvērtie laukumi
 let atvertieLaukumi = [] 
-//pēdējie 2 atvēwrtie laukumi
+//pēdējie 2 atvērtie laukumi
 let pedejieDivi = []
 
 //gājiena veikšana
